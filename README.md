@@ -4,6 +4,8 @@
 
 - 💻  I’m system engineer
 - 💻  I’m Frontend developer in ReactJs
+### 🔭 I’m currently working on Intalnet SAS
+### 👯 I’m looking to collaborate on freelancer projects
 - Frontend developer enthuciastic, with extensive knowledge in the area of ​​development in technologies such as: JavaScript, Node and libraries such as React JS, Redux, Redux Toolkit. Currently focused on learning frameworks such as Next JS and TypeScript language. Telecommunications and systems engineering professional with leadership skills, responsibility and commitment.I´ve created projects in the company where I currently work, which is responsible for offering computer solutions.
 
 ## Skills
