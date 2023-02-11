@@ -1,4 +1,4 @@
-<h2>👩🏼‍💻 I’m Nestor Sanchez Saenz 🇨🇴</h2>
+<h2>🏼‍💻 I’m Nestor Sanchez Saenz 🇨🇴</h2>
 
 <h2> Hello 👋🏼 </h2>
 
