@@ -3,7 +3,7 @@
 <h2> Hello 👋🏼 </h2>
 
 - 💻  I’m system engineer
-- 💻  I’m FullStack develope
+- 💻  I’m FullStack developer
 - 🔭  I’m currently working on Intalnet SAS
 - 👯   I’m looking to collaborate on freelancer projects
 - Systems Engineer with extensive knowledge and experience in the area of ​​development, in languages ​​such as JavaScript; Created projects with technologies such as: React JS, Next JS, Node JS, Express, Docker, Git, GitHub, AWS EC2. Currently learning GraphQL, TypeScript and English. I have leadership skills, responsibility and commitment. Also extensive experience in the areas of telematics and networks..
