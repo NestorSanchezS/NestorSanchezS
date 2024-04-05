@@ -6,7 +6,7 @@
 - 💻  I’m FullStack developer
 - 🔭  I’m currently working on Intalnet SAS
 - 👯   I’m looking to collaborate on freelancer projects
-- Systems Engineer with extensive knowledge and experience in the area of ​​development, in languages ​​such as JavaScript; Created projects with technologies such as: React JS, Next JS, Node JS, Express, Docker, Git, GitHub, AWS EC2. Currently learning GraphQL, TypeScript and English. I have leadership skills, responsibility and commitment. Also extensive experience in the areas of telematics and networks..
+- Systems Engineer with over 2 years of experience in the development field, with extensive knowledge in technologies such as: React JS, Next JS, Node JS, Express, Docker, Git, GitHub, TypeScript, AWS EC2,and python programming language.I have collaborated with multidisciplinary teams to define, design, and implement new features, as well as to optimize existing code for better scalability and maintainability I have leadership, responsibility, and commitment skills. I am a professional with excellent interpersonal relationships and ethics for decision making. High learning ability and adaptability..
 
 ## Skills
 
