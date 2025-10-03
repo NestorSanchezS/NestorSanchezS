@@ -4,7 +4,7 @@
 
 - 💻  I’m system engineer
 - 💻  I’m FullStack developer
-- 🔭  I’m currently working on DonRep
+- 🔭  I’m currently working on Simetrik
 - 👯   I’m looking to collaborate on freelancer projects
 - Systems Engineer with over 2 years of experience in the development field, with extensive knowledge in technologies such as: React JS, Next JS, Node JS, Express, Docker, Git, GitHub, TypeScript, AWS EC2,and python programming language.I have collaborated with multidisciplinary teams to define, design, and implement new features, as well as to optimize existing code for better scalability and maintainability I have leadership, responsibility, and commitment skills. I am a professional with excellent interpersonal relationships and ethics for decision making. High learning ability and adaptability..
 
